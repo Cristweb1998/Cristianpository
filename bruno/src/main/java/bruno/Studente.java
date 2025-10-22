@@ -18,6 +18,7 @@ public String getMatricola() {
 	return matricola;
 }
 
+// ciao
 
 public void setMatricola(String matricola) {
 	this.matricola = matricola;
